@@ -1,3 +1,9 @@
+package com.neosuniversity.paint.app;
+
+import com.neosuniversity.paint.domain.Circulo;
+import com.neosuniversity.paint.domain.Cuadrado;
+import com.neosuniversity.paint.domain.Figura;
+
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import java.awt.Color;

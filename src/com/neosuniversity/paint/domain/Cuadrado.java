@@ -1,9 +1,10 @@
+package com.neosuniversity.paint.domain;
 
 import java.awt.Color;
 import java.awt.Graphics;
 
 /**
- * The type Cuadrado.
+ * The type com.neosuniversity.paint.domain.Cuadrado.
  */
 public class Cuadrado implements  Figura{
 
@@ -14,7 +15,7 @@ public class Cuadrado implements  Figura{
     private boolean isFilled;
 
     /**
-     * Instantiates a new Cuadrado.
+     * Instantiates a new com.neosuniversity.paint.domain.Cuadrado.
      */
     public Cuadrado() {
 
@@ -26,7 +27,7 @@ public class Cuadrado implements  Figura{
     }
 
     /**
-     * Instantiates a new Cuadrado.
+     * Instantiates a new com.neosuniversity.paint.domain.Cuadrado.
      *
      * @param size  the size
      * @param color the color
@@ -42,7 +43,7 @@ public class Cuadrado implements  Figura{
     }
 
     /**
-     * Instantiates a new Cuadrado.
+     * Instantiates a new com.neosuniversity.paint.domain.Cuadrado.
      *
      * @param size     the size
      * @param color    the color

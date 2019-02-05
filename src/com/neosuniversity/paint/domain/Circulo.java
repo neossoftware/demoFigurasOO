@@ -1,3 +1,5 @@
+package com.neosuniversity.paint.domain;
+
 import java.awt.Color;
 import java.awt.Graphics;
 
@@ -62,7 +64,7 @@ public class Circulo implements  Figura {
 
     @Override
     public String toString() {
-        return "Circulo{" +
+        return "com.neosuniversity.paint.domain.Circulo{" +
                 "radio=" + radio +
                 ", area=" + area +
                 ", perimetro=" + perimetro +

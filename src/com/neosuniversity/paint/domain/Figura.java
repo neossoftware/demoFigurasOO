@@ -1,3 +1,5 @@
+package com.neosuniversity.paint.domain;
+
 import java.awt.Graphics;
 
 public interface Figura {

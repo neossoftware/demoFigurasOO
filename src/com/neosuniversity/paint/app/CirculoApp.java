@@ -1,3 +1,7 @@
+package com.neosuniversity.paint.app;
+
+import com.neosuniversity.paint.domain.Circulo;
+
 import java.awt.Color;
 
 public class CirculoApp {
